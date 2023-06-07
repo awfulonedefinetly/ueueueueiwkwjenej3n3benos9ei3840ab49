@@ -1,4 +1,4 @@
-go example.com/nigger
+module example.com/nigger
 
 
 go 1.20
